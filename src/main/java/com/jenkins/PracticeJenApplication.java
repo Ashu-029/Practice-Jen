@@ -25,7 +25,7 @@ public class PracticeJenApplication {
 	public static void main(String[] args) {
 		
 		log.info(" Application Has Started......... "); 
-		log.info(" Application ......... "); 
+		log.info(" Application ......... ")
 
 		SpringApplication.run(PracticeJenApplication.class, args);
 	}
